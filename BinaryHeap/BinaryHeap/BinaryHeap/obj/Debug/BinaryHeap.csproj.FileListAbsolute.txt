@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2012\Projects\BinaryHeap\BinaryHeap\bin\Debug\BinaryHeap.exe.config
+c:\users\user\documents\visual studio 2012\Projects\BinaryHeap\BinaryHeap\obj\Debug\BinaryHeap.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\BinaryHeap\BinaryHeap\bin\Debug\BinaryHeap.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\BinaryHeap\BinaryHeap\bin\Debug\BinaryHeap.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\BinaryHeap\BinaryHeap\obj\Debug\BinaryHeap.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\BinaryHeap\BinaryHeap\obj\Debug\BinaryHeap.pdb
